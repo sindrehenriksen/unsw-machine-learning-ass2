@@ -1,0 +1,11 @@
+*.zip
+.idea/
+old code/
+README_small.txt
+report.pdf
+venv/
+venv2/
+.Rhistory
+desktop.ini
+python
+
